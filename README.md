@@ -13,5 +13,7 @@
 8. User can see all requested meals
 
 #### Admin
-1. An Admin can make another user admin
-2. 
+1. An Admin can make another user admin and see all other users
+2. admin can add meal and update meal
+3. admin can see all meals,edit,delete,update meal items
+4. admin can see all reviews 
