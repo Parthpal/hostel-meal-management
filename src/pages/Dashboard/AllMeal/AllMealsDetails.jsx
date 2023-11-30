@@ -4,7 +4,7 @@ import Swal from 'sweetalert2';
 
 const AllMealsDetails = ({request,refetch}) => {
     const {_id,image,meal_title,meal_rating,like_count,review_count,category,price,description,meal_ingredients,admin_name,admin_email,date}=request;
-    //del
+    //delte
     const handleDelete=(_id)=>{
         Swal.fire({
             title: 'Are you sure?',
