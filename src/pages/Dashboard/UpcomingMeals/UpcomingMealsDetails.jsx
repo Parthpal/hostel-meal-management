@@ -85,4 +85,4 @@ const UpcomingMealsDetails = ({request,refetch}) => {
 </> );
 };
 
-export default UpcomingMealsDetails;
+export default UpcomingMealsDetails;// Updated

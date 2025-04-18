@@ -42,4 +42,4 @@ const MembsershipSection = () => {
         </>);
 };
 
-export default MembsershipSection;
+export default MembsershipSection;// Updated

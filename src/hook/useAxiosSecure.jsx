@@ -10,4 +10,4 @@ const axiosSecure = axios.create({
       return axiosSecure;
   };
 
-export default useAxiosSecure;
+export default useAxiosSecure;// Updated

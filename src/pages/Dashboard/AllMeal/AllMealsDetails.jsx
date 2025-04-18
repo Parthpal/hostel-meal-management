@@ -69,4 +69,4 @@ const AllMealsDetails = ({request,refetch}) => {
 </>);
 };
 
-export default AllMealsDetails;
+export default AllMealsDetails;// Updated

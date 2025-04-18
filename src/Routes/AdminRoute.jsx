@@ -20,4 +20,4 @@ const AdminRoute = ({ children }) => {
 
 };
 
-export default AdminRoute;
+export default AdminRoute;// Updated

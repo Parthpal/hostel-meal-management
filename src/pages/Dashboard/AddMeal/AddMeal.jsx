@@ -215,4 +215,4 @@ const AddMeal = () => {
     );
 };
 
-export default AddMeal;
+export default AddMeal;// Updated

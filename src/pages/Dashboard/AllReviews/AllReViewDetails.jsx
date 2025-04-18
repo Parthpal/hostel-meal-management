@@ -102,4 +102,4 @@ const AllReViewDetails = ({reviews,refetch}) => {
         </>);
 };
 
-export default AllReViewDetails;
+export default AllReViewDetails;// Updated

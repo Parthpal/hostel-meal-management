@@ -48,4 +48,4 @@ const AllReviews = () => {
             </> );
 };
 
-export default AllReviews;
+export default AllReviews;// Updated

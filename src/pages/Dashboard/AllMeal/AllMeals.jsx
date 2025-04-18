@@ -46,4 +46,4 @@ const AllMeals = () => {
             </>);
 };
 
-export default AllMeals;
+export default AllMeals;// Updated

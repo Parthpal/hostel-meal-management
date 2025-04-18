@@ -139,4 +139,4 @@ const handleFilter=(filter)=>{
         </>);
 };
 
-export default AllMeal;
+export default AllMeal;// Updated

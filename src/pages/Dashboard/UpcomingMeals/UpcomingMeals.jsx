@@ -45,4 +45,4 @@ const UpcomingMeals = () => {
             </> );
 };
 
-export default UpcomingMeals;
+export default UpcomingMeals;// Updated

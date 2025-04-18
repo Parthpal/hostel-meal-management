@@ -104,4 +104,4 @@ const ReviewMealDetails = ({reviews,refetch}) => {
         </> );
 };
 
-export default ReviewMealDetails;
+export default ReviewMealDetails;// Updated

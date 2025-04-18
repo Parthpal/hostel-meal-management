@@ -114,4 +114,4 @@ const MealCategory = () => {
         </>);
 };
 
-export default MealCategory;
+export default MealCategory;// Updated

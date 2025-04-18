@@ -97,4 +97,4 @@ const UpcomingMeal = () => {
             </>);
 };
 
-export default UpcomingMeal;
+export default UpcomingMeal;// Updated

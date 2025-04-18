@@ -145,4 +145,4 @@ const CheckOutForm = ({price,name}) => {
     );
 };
 
-export default CheckOutForm;
+export default CheckOutForm;// Updated

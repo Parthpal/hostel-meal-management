@@ -31,4 +31,4 @@ const WorkSection = () => {
     );
 };
 
-export default WorkSection;
+export default WorkSection;// Updated

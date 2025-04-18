@@ -182,4 +182,4 @@ const PerMealDetails = () => {
    </>);
 };
 
-export default PerMealDetails;
+export default PerMealDetails;// Updated

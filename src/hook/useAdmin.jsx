@@ -17,4 +17,4 @@ const useAdmin = () => {
     return [isAdmin, isAdminLoading]
 };
 
-export default useAdmin;
+export default useAdmin;// Updated
