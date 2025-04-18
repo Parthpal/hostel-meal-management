@@ -4,7 +4,7 @@
 #### Project Features
 #### User 
 1. User can see different category meals and upcoming meals
-2. User can see meal details,request for meals, Review meals
+2. User can View detailed meal information and request for specific meals and submit Reviews on meals
 3. User can purchase three types of membership Gold,Silver,Platinum
 4. Use can search for meals
 5. User can login and register
